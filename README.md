@@ -9,15 +9,15 @@ Mengontrol komputer lain secara remote menggunakan SSH
 
 2. Instal package openssh untuk mengontrol komputer lain secara remote
 
-   ![Instal OpenSSH](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/2png)
+   ![Instal OpenSSH](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/2.png)
 
 3. Memastikan service ssh telah berjalan dan dapat berjalan secara otomatis tiap boot 
 
-   ![Cek service SSH](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/3png)
+   ![Cek service SSH](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/3.png)
 
 4. Memberi akses firewall pada service ssh agar dapat menerima dan mengirim koneksi ke komputer lain
 
-   ![Konfigurasi firewall](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/4png)
+   ![Konfigurasi firewall](https://github.com/superapple8x/Praktikum_SSH-Sistem_Operasi/blob/main/praktikum-ssh/4.png)
 
 5. Mencari IP Address komputer yang kemudian bisa digunakan untuk disambungkan dari komputer lain
 
